@@ -13,8 +13,8 @@
     "Apache Software License 2.0",
     "Not open source"
   ],
-  "timezone": "UTC",
-  "windows": "n",
+  "timezone": "GMT",
+  "windows": "y",
   "use_pycharm": "y",
   "use_docker": "n",
   "postgresql_version": [
